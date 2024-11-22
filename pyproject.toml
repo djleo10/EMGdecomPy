@@ -13,7 +13,7 @@ pandas = "^1.4.2"
 altair = "^4.2.0"
 numpy = "^1.22.3"
 altair-data-server = "^0.4.1"
-scikit-learn = "^0.0" # Changed
+# scikit-learn = "^0.0" # Changed
 panel = "^0.13.1"
 ipywidgets = "^7.7.0"
 
